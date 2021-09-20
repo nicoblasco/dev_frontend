@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test en Room debe de renderizar el componente correctamente  1`] = `
+<div>
+  <div class="btn-group-vertical"><span>Click to change member 👇</span></div>
+</div>
+`;

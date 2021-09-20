@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test en CardDesk debe de renderizar el componente correctamente  1`] = `
+<div>
+  <div class="row text-center h-100">
+    <p class="deck-text">Choose your card 👇</p>
+  </div>
+  <div class="row text-center">
+    <div class="col-md-12 align-self-center"><button class="btn btn-outline-primary card-player" disabled="">1</button><button class="btn btn-outline-primary card-player" disabled="">2</button><button class="btn btn-outline-primary card-player" disabled="">3</button><button class="btn btn-outline-primary card-player" disabled="">5</button><button class="btn btn-outline-primary card-player" disabled="">8</button><button class="btn btn-outline-primary card-player" disabled="">13</button><button class="btn btn-outline-primary card-player" disabled="">20</button><button class="btn btn-outline-primary card-player" disabled="">40</button><button class="btn btn-outline-primary card-player" disabled="">?</button></div>
+  </div>
+</div>
+`;
